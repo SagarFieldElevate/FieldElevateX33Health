@@ -68,7 +68,7 @@ export default async function SalesDashboardPage() {
   ];
 
   return (
-    <div className="mx-auto w-full max-w-[1400px] space-y-5 px-4 py-5 sm:px-6">
+    <div className="mx-auto w-full max-w-[1760px] space-y-5 px-4 py-5 sm:px-6">
       {/* Top bar */}
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div>

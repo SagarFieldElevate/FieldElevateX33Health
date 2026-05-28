@@ -87,7 +87,7 @@ export function SalesDashboard({
     : [];
 
   return (
-    <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_420px]">
+    <div className="grid gap-4">
       {/* Left pane: filters + table */}
       <div className="min-w-0 space-y-3">
         <div className="flex flex-wrap items-center gap-2">
@@ -130,7 +130,7 @@ export function SalesDashboard({
 
         <div className="overflow-hidden rounded-lg border bg-card">
           <div className="overflow-x-auto">
-            <table className="w-full text-sm">
+            <table className="min-w-[1080px] w-full text-sm">
               <thead>
                 <tr className="border-b bg-muted/40 text-left text-xs uppercase tracking-wide text-muted-foreground">
                   <th className="px-3 py-2 font-medium">Facility</th>
@@ -219,7 +219,7 @@ export function SalesDashboard({
       </div>
 
       {/* Right pane: detail */}
-      <aside className="lg:sticky lg:top-[4.5rem] lg:h-fit">
+      <aside>
         <div className="rounded-lg border bg-card p-4">
           <FacilityDetailPanel
             facility={selected}
