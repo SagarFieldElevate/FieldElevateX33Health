@@ -87,7 +87,7 @@ export function SalesDashboard({
     : [];
 
   return (
-    <div className="grid gap-4">
+    <div className="grid gap-4 xl:grid-cols-[minmax(0,1fr)_360px]">
       {/* Left pane: filters + table */}
       <div className="min-w-0 space-y-3">
         <div className="flex flex-wrap items-center gap-2">
@@ -219,7 +219,7 @@ export function SalesDashboard({
       </div>
 
       {/* Right pane: detail */}
-      <aside>
+      <aside className="xl:sticky xl:top-[4.5rem] xl:h-fit">
         <div className="rounded-lg border bg-card p-4">
           <FacilityDetailPanel
             facility={selected}
