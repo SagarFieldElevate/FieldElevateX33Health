@@ -1,0 +1,23 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Claude Code workspace state (user/machine-specific permissions, etc.)
+.claude/
+
+# Defensive: build/dep outputs at any depth. wake-intel/.gitignore covers its own,
+# but these guard against new subprojects or accidents.
+node_modules/
+.next/
+.vercel/
+*.tsbuildinfo
+
+# Local env files anywhere in the tree — NEVER commit secrets.
+.env
+.env.local
+.env.*.local
+
+# IDE local state (commit only if intentional)
+.idea/
+.vscode/

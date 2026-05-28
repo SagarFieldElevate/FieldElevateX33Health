@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Searstone",
+    "facility_type": "CCRC",
+    "unit_count": 321,
+    "unit_count_type": "exact",
+    "size_class": "confirmed_100_plus",
+    "size_confidence": "high"
+  },
+  {
+    "name": "The Cardinal at North Hills",
+    "facility_type": "CCRC",
+    "unit_count": 191,
+    "unit_count_type": "exact",
+    "size_class": "confirmed_100_plus",
+    "size_confidence": "high"
+  },
+  {
+    "name": "Wakefield Manor",
+    "facility_type": "AL",
+    "unit_count": 96,
+    "unit_count_type": "exact",
+    "size_class": "confirmed_under_100",
+    "size_confidence": "high"
+  }
+]

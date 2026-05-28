@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Springmoor Life Care Retirement Community",
+    "address": "1500 Sawmill Road",
+    "city": "Raleigh",
+    "zip": "27615",
+    "website_url": "https://springmoor.org/",
+    "operator": "Retirement Living Associates",
+    "facility_type": "CCRC",
+    "unit_count": 389,
+    "unit_count_type": "estimated",
+    "source_url": "https://springmoor.org/residence-options/"
+  },
+  {
+    "name": "Glenaire",
+    "address": "4000 Glenaire Circle",
+    "city": "Cary",
+    "zip": "27511",
+    "website_url": "https://www.glenaire.org/",
+    "operator": "The Presbyterian Homes",
+    "facility_type": "CCRC",
+    "source_url": "https://www.glenaire.org/contact-glenaire-ccrc.php"
+  },
+  {
+    "name": "The Cypress of Raleigh",
+    "address": "8801 Cypress Lakes Drive",
+    "city": "Raleigh",
+    "zip": "27615",
+    "website_url": "https://www.thecypressofraleigh.com/",
+    "operator": "Life Care Services (LCS)",
+    "facility_type": "CCRC",
+    "unit_count": 205,
+    "unit_count_type": "estimated",
+    "source_url": "https://www.thecypressofraleigh.com/"
+  },
+  {
+    "name": "The Oaks at Whitaker Glen",
+    "address": "501 East Whitaker Mill Road",
+    "city": "Raleigh",
+    "zip": "27608",
+    "website_url": "https://oaksatwhitakerglen.com/",
+    "operator": "Independent",
+    "facility_type": "CCRC",
+    "source_url": "https://oaksatwhitakerglen.com/"
+  },
+  {
+    "name": "The Templeton of Cary",
+    "address": "215 Brightmore Drive",
+    "city": "Cary",
+    "zip": "27518",
+    "website_url": "https://www.thetempletonofcary.com/",
+    "operator": "Liberty Senior Living (Brightmore)",
+    "facility_type": "CCRC",
+    "source_url": "https://www.thetempletonofcary.com/community"
+  },
+  {
+    "name": "Windsor Point Retirement Community",
+    "address": "1221 Broad Street",
+    "city": "Fuquay-Varina",
+    "zip": "27526",
+    "website_url": "https://windsorpoint.com/",
+    "operator": "Independent",
+    "facility_type": "CCRC",
+    "unit_count": 181,
+    "unit_count_type": "estimated",
+    "source_url": "https://windsorpoint.com/"
+  },
+  {
+    "name": "Carolina Preserve by Del Webb",
+    "address": "107 Arvind Oaks Circle",
+    "city": "Cary",
+    "zip": "27519",
+    "website_url": "https://carolinapreserve.com/",
+    "operator": "Del Webb",
+    "facility_type": "55plus",
+    "unit_count": 1360,
+    "unit_count_type": "estimated",
+    "source_url": "https://carolinapreserve.com/about/"
+  },
+  {
+    "name": "Brookdale North Raleigh",
+    "address": "1200 Carlos Drive",
+    "city": "Raleigh",
+    "zip": "27609",
+    "website_url": "https://www.brookdale.com/en/communities/brookdale-north-raleigh.html",
+    "operator": "Brookdale",
+    "facility_type": "IL",
+    "source_url": "https://www.brookdale.com/en/communities/brookdale-north-raleigh.html"
+  },
+  {
+    "name": "Modena Cary",
+    "address": "7000 Regency Parkway",
+    "city": "Cary",
+    "zip": "27518",
+    "website_url": "https://modenacary.com/",
+    "operator": "Solera Senior Living",
+    "facility_type": "IL",
+    "unit_count": 138,
+    "unit_count_type": "estimated",
+    "source_url": "https://crenews.com/2026/04/22/solera-buys-seniors-housing-property-in-cary-n-c-for-60-28mln/"
+  },
+  {
+    "name": "Atria Oakridge",
+    "address": "10810 Sandy Oak Lane",
+    "city": "Raleigh",
+    "zip": "27614",
+    "website_url": "https://www.atriaseniorliving.com/",
+    "operator": "Atria",
+    "facility_type": "IL",
+    "source_url": "https://www.aplaceformom.com/community/atria-oakridge-152366"
+  },
+  {
+    "name": "Waltonwood Cary Parkway",
+    "address": "750 SE Cary Parkway",
+    "city": "Cary",
+    "zip": "27511",
+    "website_url": "https://www.waltonwood.com/senior-living/nc/cary/waltonwood-cary-pkwy/",
+    "operator": "Singh (Waltonwood)",
+    "facility_type": "mixed",
+    "source_url": "https://www.waltonwood.com/senior-living/nc/cary/waltonwood-cary-pkwy/"
+  },
+  {
+    "name": "Waltonwood Lake Boone",
+    "address": "3550 Horton Street",
+    "city": "Raleigh",
+    "zip": "27607",
+    "website_url": "https://www.waltonwood.com/",
+    "operator": "Singh (Waltonwood)",
+    "facility_type": "mixed",
+    "source_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county"
+  },
+  {
+    "name": "The Willows at Raleigh",
+    "address": "2722 Spring Forest Road",
+    "city": "Raleigh",
+    "zip": "27616",
+    "website_url": "https://willowsatraleigh.com/",
+    "operator": "Solera Senior Living",
+    "facility_type": "IL",
+    "source_url": "https://www.soleraseniorliving.com/solera-senior-living-selected-by-focus-healthcare-properties-to-operate-the-willows-at-raleigh-independent-living-community/"
+  },
+  {
+    "name": "Magnolia Glen",
+    "address": "5301 Creedmoor Road",
+    "city": "Raleigh",
+    "zip": "27612",
+    "website_url": "https://www.seniorlivingguide.com/communities/magnolia-glen-5301-creedmoor-road-raleigh-nc-27612/",
+    "operator": "Kisco Senior Living",
+    "facility_type": "mixed",
+    "source_url": "https://www.aplaceformom.com/community/magnolia-glen-95889"
+  },
+  {
+    "name": "The Cambridge at Brier Creek",
+    "address": "7901 TW Alexander Drive",
+    "city": "Raleigh",
+    "zip": "27617",
+    "website_url": "https://www.cvsliving.com/brier-creek/",
+    "operator": "Cambridge Village Senior Living (CVS Living)",
+    "facility_type": "mixed",
+    "source_url": "https://www.cvsliving.com/brier-creek/"
+  },
+  {
+    "name": "Independence Village of Olde Raleigh",
+    "address": "3113 Charles B. Root Wynd",
+    "city": "Raleigh",
+    "zip": "27612",
+    "website_url": "https://www.sonidaseniorliving.com/community/independence-village-of-olde-raleigh/",
+    "operator": "Sonida Senior Living",
+    "facility_type": "IL",
+    "source_url": "https://www.sonidaseniorliving.com/community/independence-village-of-olde-raleigh/"
+  },
+  {
+    "name": "Stoneridge",
+    "address": "105 Convention Drive",
+    "city": "Cary",
+    "zip": "27511",
+    "website_url": "https://www.aplaceformom.com/community/stoneridge-1383466",
+    "operator": "Hawthorn Senior Living",
+    "facility_type": "IL",
+    "source_url": "https://www.aplaceformom.com/community/stoneridge-1383466"
+  },
+  {
+    "name": "Capital Oaks Retirement Resort",
+    "address": "6498 Ray Road",
+    "city": "Raleigh",
+    "zip": "27613",
+    "website_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county",
+    "operator": "Holiday by Atria",
+    "facility_type": "IL",
+    "source_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county"
+  },
+  {
+    "name": "Abbotswood at Stonehenge",
+    "address": "7900 Creedmoor Road",
+    "city": "Raleigh",
+    "zip": "27613",
+    "website_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county",
+    "operator": "Independent",
+    "facility_type": "IL",
+    "source_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county"
+  },
+  {
+    "name": "Gardens at Wakefield",
+    "address": "12800 Spruce Tree Way",
+    "city": "Raleigh",
+    "zip": "27614",
+    "website_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county",
+    "operator": "Independent",
+    "facility_type": "IL",
+    "source_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county"
+  },
+  {
+    "name": "Preston Pointe",
+    "address": "1995 NW Cary Parkway",
+    "city": "Morrisville",
+    "zip": "27560",
+    "website_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county",
+    "operator": "Independent",
+    "facility_type": "IL",
+    "source_url": "https://www.aplaceformom.com/independent-living/north-carolina/wake-county"
+  },
+  {
+    "name": "Brier Pointe Retirement Community",
+    "address": "5911 McCrimmon Parkway",
+    "city": "Morrisville",
+    "zip": "27560",
+    "website_url": "https://www.aplaceformom.com/community/brier-pointe-retirement-community-1449931",
+    "operator": "Independent",
+    "facility_type": "IL",
+    "source_url": "https://www.aplaceformom.com/community/brier-pointe-retirement-community-1449931"
+  },
+  {
+    "name": "Sunrise at North Hills",
+    "address": "615 Spring Forest Road",
+    "city": "Raleigh",
+    "zip": "27609",
+    "website_url": "https://www.sunriseseniorliving.com/communities/nc/sunrise-at-north-hills",
+    "operator": "Sunrise Senior Living",
+    "facility_type": "AL",
+    "source_url": "https://www.sunriseseniorliving.com/communities/nc/sunrise-at-north-hills"
+  },
+  {
+    "name": "Sunrise of Raleigh",
+    "address": "4801 Edwards Mill Road",
+    "city": "Raleigh",
+    "zip": "27612",
+    "website_url": "https://www.sunriseseniorliving.com/communities/nc/sunrise-of-raleigh",
+    "operator": "Sunrise Senior Living",
+    "facility_type": "AL",
+    "source_url": "https://www.continuingcarecommunities.org/assisted-living/north-carolina/wake-county.html"
+  },
+  {
+    "name": "Cadence North Raleigh",
+    "address": "5219 Old Wake Forest Road",
+    "city": "Raleigh",
+    "zip": "27609",
+    "website_url": "https://cogirusa.com/communities/cadence-north-raleigh/",
+    "operator": "Cogir Senior Living",
+    "facility_type": "AL",
+    "source_url": "https://cogirusa.com/communities/cadence-north-raleigh/"
+  },
+  {
+    "name": "Elmcroft of Northridge",
+    "address": "600 Newton Road",
+    "city": "Raleigh",
+    "zip": "27615",
+    "website_url": "https://www.continuingcarecommunities.org/assisted-living/north-carolina/wake-county.html",
+    "operator": "Independent",
+    "facility_type": "AL",
+    "source_url": "https://www.continuingcarecommunities.org/assisted-living/north-carolina/wake-county.html"
+  },
+  {
+    "name": "The Covington",
+    "address": "4510 Duraleigh Road",
+    "city": "Raleigh",
+    "zip": "27612",
+    "website_url": "https://www.continuingcarecommunities.org/assisted-living/north-carolina/wake-county.html",
+    "operator": "Independent",
+    "facility_type": "AL",
+    "source_url": "https://www.continuingcarecommunities.org/assisted-living/north-carolina/wake-county.html"
+  },
+  {
+    "name": "Heartfields at Cary",
+    "address": "1050 Crescent Green Drive",
+    "city": "Cary",
+    "zip": "27518",
+    "website_url": "https://www.continuingcarecommunities.org/assisted-living/north-carolina/cary.html",
+    "operator": "Independent",
+    "facility_type": "AL",
+    "source_url": "https://www.continuingcarecommunities.org/assisted-living/north-carolina/cary.html"
+  }
+]
